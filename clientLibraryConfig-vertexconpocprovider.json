@@ -1,0 +1,13 @@
+{
+  "universe_domain": "googleapis.com",
+  "type": "external_account",
+  "audience": "//iam.googleapis.com/projects/318590595110/locations/global/workloadIdentityPools/vertexconpocpool/providers/vertexconpocprovider2",
+  "subject_token_type": "urn:ietf:params:oauth:token-type:jwt",
+  "token_url": "https://sts.googleapis.com/v1/token",
+  "credential_source": {
+    "file": "C:\\RandD\\VertexConWIF\\token.txt",
+    "format": {
+      "type": "text"
+    }
+  }
+}
